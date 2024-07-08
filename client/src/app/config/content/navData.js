@@ -7,4 +7,16 @@ export const navData = [
     text: "About",
     url: "/about",
   },
+  {
+    text: "Login",
+    url: "/api/login",
+  },
+  {
+    text: "Logout",
+    url: "/api/logout",
+  },
+  {
+    text: "Dashboard",
+    url: "/dashboard",
+  },
 ];

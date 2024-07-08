@@ -10,7 +10,7 @@ const NavBar = () => {
           <Link
             href={datum.url}
             key={datum.url}
-            className="mx-6 my-4 px-6 py-3 rounded-lg hover:bg-slate-300 hover:text-slate-700 "
+            className="mx-6 my-4 px-8 py-3 rounded-lg hover:bg-slate-300 hover:text-slate-700 "
           >
             {datum.text}
           </Link>
